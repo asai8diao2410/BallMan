@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1131648669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1dce891dcf730a8d8f31a8c1416891e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2f077efc0fbffa6b744e73ed4580e5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb3f38a8eb24c8b4a964a4b90981cd9a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Editor/Prefabs/Route/route_1.prefab
+Dependencies: []

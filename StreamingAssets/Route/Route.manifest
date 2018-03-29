@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1777163060
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: route_1.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: route_2.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: route_3.assetbundle
+      Dependencies: {}

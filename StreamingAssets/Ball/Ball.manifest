@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2702036132
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ball_1.assetbundle
+      Dependencies: {}
